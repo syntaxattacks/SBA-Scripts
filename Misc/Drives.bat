@@ -1,0 +1,14 @@
+net use G:	\\fl1fs1.sbasite.com\jc-company$ /p:Yes
+net use H:	\\fl1fs1.sbasite.com\accounting$ /p:Yes
+net use I:	\\fl1fs1\users$\MValdez /p:Yes
+net use J:	\\fl1fs1.sbasite.com\data /p:Yes
+net use K:	\\fl1fs1.sbasite.com\gplains$ /p:Yes
+net use L:	\\fl1fs1.sbasite.com\sba_accounting$ /p:Yes
+net use O:	\\fl1hyp3\c$ /p:Yes
+net use R:	\\fl1fs1.sbasite.com\Remote$ /p:Yes
+net use S:	\\fl1fs1.sbasite.com\aatlegal$ /p:Yes
+net use T:	\\fl1fs1.sbasite.com\aataccounting$ /p:Yes
+net use W:	\\fl1fs1.sbasite.com\general$ /p:Yes
+net use X:	\\FL1HYP1\C$ /p:Yes
+net use Y:	\\fl1fs1.sbasite.com\data\common\opex /p:Yes
+net use Z:	\\fl1fs1.sbasite.com\data\SBANS-ProjectBillingSDS /p:Yes

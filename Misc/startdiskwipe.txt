@@ -1,0 +1,4 @@
+select disk 0
+clean /all
+echo Press any key to continue
+PAUSE>NUL

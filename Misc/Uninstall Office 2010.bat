@@ -1,0 +1,1 @@
+cmd \\fl1image3\software$\Microsoft\Applications\Microsoft Office Professional Plus 2013\setup.exe /uninstall ProPlus /config \\fl1image3\software$\Microsoft\Applications\Microsoft Office Professional Plus 2013\UninstallConfig.xml
